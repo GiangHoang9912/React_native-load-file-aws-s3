@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "loadFile",
+    "slug": "loadFile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "loadFile"
+}

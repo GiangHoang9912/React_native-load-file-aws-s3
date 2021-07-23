@@ -1,0 +1,20 @@
+{
+    "body": {
+        "postResponse": {
+            "bucket": "ddsgq",
+            "etag": "ff0e97f38451b88e6ef80648611a3818",
+            "key": "uploads/78CE3EFB-07D2-4806-A27B-9BD9D7E88129.jpg",
+            "location": "https://ddsgq.s3.amazonaws.com/uploads%2F78CE3EFB-07D2-4806-A27B-9BD9D7E88129.jpg"
+        }
+    },
+    "headers": {
+        "Content-Length": "298",
+        "Content-Type": "application/xml",
+        "Date": "Thu, 22 Jul 2021 21:13:03 GMT",
+        "Etag": "\"ff0e97f38451b88e6ef80648611a3818\"",
+        "Location": "https://ddsgq.s3.amazonaws.com/uploads%2F78CE3EFB-07D2-4806-A27B-9BD9D7E88129.jpg",
+        "Server": "AmazonS3",
+        "x-amz-id-2": "KKUv069C0Q/4064rb4zbUeMcRVQy7QDNQ4xxiNZyqPtsx77BR4TIkBTjlXObyeFHqOpRoucQpo4=",
+        "x-amz-request-id": "J6H0T0DC2B42EG9X"
+    },
+    "status": 201
